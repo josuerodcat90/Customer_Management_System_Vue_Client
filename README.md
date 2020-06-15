@@ -1,5 +1,7 @@
 # vue-client
 
+#### `dev` is the principal branch of this project.
+
 ## Project setup
 ```
 npm install
